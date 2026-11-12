@@ -1,1 +1,1 @@
-# Qu-n-l-tri-th-c
+# Quản lý tri thức
